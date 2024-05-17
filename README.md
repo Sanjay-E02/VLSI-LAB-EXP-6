@@ -1,4 +1,11 @@
-# VLSI-LAB-EXP-6
+# EXP 6
+# DATE :
+
+
+
+
+
+
 # SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
 # APPARATUS REQUIRED:
 Laptop with MobaXterm Cadence tool PROCEDURE SCHEMATIC ENTRY: Creating a new library: In the library manager, execute File - New library. The new library form appears. In the new library form, type ‘my design lib’ in the name section. In the field of directory section, verify that the path to the library is set to ~/Database / Cadence- analog – lab –bl3 and click ok. In the next ‘technology file for new library form select option attach to an existing tech file and click ok. In the ‘attach design library to technology file’ form, select gpdk045 form the cyclic field and click ok. After creating a new library you can verify it from the library manager. If you right click on the ‘my design lib’ and select properties, you will find that gpdk045 library is attached as techlib to ‘my design lib’. Creating a schematic cell view:
